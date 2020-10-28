@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => (
     <nav>
       <ul class="nav-links">
-        <li><a href="./">Home</a></li>
+        <li><a href="./index">Home</a></li>
         <li><a href="./about">About</a></li>
         <li><a href="./contact">Contact</a></li>
       </ul>
